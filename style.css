@@ -1,0 +1,45 @@
+body {
+    background: #8B939C;
+    font-family: arial;
+    font-size: 16px;
+    color: #FFD07B;
+}
+
+#headshot img {
+    width:250px;
+    height:200px;
+}
+#results img {
+    width:400px;
+    height:600px;
+}
+
+#interface img {
+    width:500px;
+    height:500px;
+}
+p {
+    font-size:1em;
+    line-height: 1.4em;
+    margin-bottom: 20px;
+}
+
+#container {
+    width:90%;
+    max-width:900px;
+    margin:30px auto;
+    padding:30px;
+    background-color: #2C302E;
+}
+a {
+    color:#8B939C;
+    text-decoration:none;
+}
+
+a:hover {
+    color:#D1D5DE;
+}
+
+
+
+
